@@ -11,3 +11,7 @@ html {
   font-size: 18px;
   font-family: "Outfit", sans-serif;
 }
+
+body {
+  background-color: hsl(217deg, 54%, 11%);
+}
