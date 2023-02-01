@@ -40,6 +40,11 @@ img {
 
 .text-white {
   color: $white;
+
+  &:hover {
+    color: $cyan;
+    cursor: pointer;
+  }
 }
 
 .attribution {
