@@ -9,7 +9,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-    **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -22,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Gorkish/nft-card-component)
-- Live Site URL: [Add live site URL here](https://gorkish.github.io/nft-card-component/)
+- Solution URL: [Repo link](https://github.com/Gorkish/nft-card-component)
+- Live Site URL: [Live link](https://gorkish.github.io/nft-card-component/)
 
 ### Built with
 
